@@ -1,6 +1,6 @@
 {
   "name": "smart-book-acquisition",
-  "version": "1.0.0",
+  "version": "latest",
   "type": "module",
   "scripts": {
     "dev": "vite",
